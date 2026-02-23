@@ -1,4 +1,4 @@
-jupyter nbconvert --to script your_notebook.ipynb
+
 {
  "cells": [
   {
